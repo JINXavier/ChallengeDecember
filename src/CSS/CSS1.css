@@ -1,0 +1,19 @@
+body{
+
+}
+
+@media all and (max-width:550px){
+    img#Logo{
+        filter: invert(0%);
+    }
+    li{
+        background-color:black;
+        padding:10px;
+        list-style-type:none;
+        text-align:center;
+        width:40%;
+        font-family: Oswald;
+        color:white;
+        text-decoration:none;
+    }
+}
